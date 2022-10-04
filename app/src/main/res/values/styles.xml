@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="textLight">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/jetbrainsmono_medium</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="textBold">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/jetbrainsmono_extrabold</item>
+        <item name="android:textSize">40dp</item>
+    </style>
+
+</resources>
