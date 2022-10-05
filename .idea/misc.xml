@@ -7,8 +7,10 @@
         <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/drawable/manager_service.xml" value="0.157" />
         <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/drawable/panel.xml" value="0.157" />
         <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/layout/activity_authentation.xml" value="0.264" />
+        <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/layout/activity_contact_info.xml" value="0.2" />
         <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/layout/activity_contact_list.xml" value="0.176" />
         <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/layout/contact_item.xml" value="0.2" />
         <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/layout/fragment_contact_add_.xml" value="0.264" />
         <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/layout/fragment_contact_create.xml" value="0.18478260869565216" />
         <entry key="..\:/Users/claud/AndroidStudioProjects/contactcompact/app/src/main/res/layout/fragment_service_manager.xml" value="0.152" />
